@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 844e8bb41e7cdef4fa1e4e40b02127a0
+timeCreated: 1457995529
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oscar_0
+    21300002: Oscar_1
+    21300004: Oscar_2
+    21300006: Oscar_3
+    21300008: Oscar_4
+    21300010: Oscar_5
+    21300012: Oscar_6
+    21300014: Oscar_7
+    21300016: Oscar_8
+    21300018: Oscar_9
+    21300020: Oscar_10
+    21300022: Oscar_11
+    21300024: Oscar_12
+    21300026: Oscar_13
+    21300028: Oscar_14
+    21300030: Oscar_15
+    21300032: Oscar_16
+    21300034: Oscar_17
+    21300036: Oscar_18
+    21300038: Oscar_19
+    21300040: Oscar_20
+    21300042: Oscar_21
+    21300044: Oscar_22
+    21300046: Oscar_23
+    21300048: Oscar_24
+    21300050: Oscar_25
+    21300052: Oscar_26
+    21300054: Oscar_27
+    21300056: Oscar_28
+    21300058: Oscar_29
+    21300060: Oscar_30
+    21300062: Oscar_31
+    21300064: Oscar_32
+    21300066: Oscar_33
+    21300068: Oscar_34
+    21300070: Oscar_35
+    21300072: Oscar_36
+    21300074: Oscar_37
+    21300076: Oscar_38
+    21300078: Oscar_39
+    21300080: Oscar_40
+    21300082: Oscar_41
+    21300084: Oscar_42
+    21300086: Oscar_43
+    21300088: Oscar_44
+    21300090: Oscar_45
+    21300092: Oscar_46
+    21300094: Oscar_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Oscar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -30, y: 27}
+        - {x: -30, y: 8}
+        - {x: -23, y: -8}
+        - {x: -19, y: -13}
+        - {x: -21, y: -31}
+        - {x: -21, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -30}
+        - {x: 18, y: 28}
+        - {x: -1, y: 32}
+    - name: Oscar_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -29, y: 29}
+        - {x: -29, y: 6}
+        - {x: -20, y: -32}
+        - {x: 18, y: -32}
+        - {x: 20, y: -28}
+        - {x: 20, y: 27}
+        - {x: 7, y: 32}
+    - name: Oscar_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 6}
+        - {x: 25, y: 8}
+        - {x: 25, y: 31}
+        - {x: 23, y: 32}
+        - {x: 21, y: 32}
+        - {x: 19, y: 30}
+        - {x: 19, y: 21}
+        - {x: 18, y: 22}
+        - {x: 19, y: 25}
+        - {x: 19, y: 27}
+        - {x: 18, y: 32}
+        - {x: -31, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -13}
+        - {x: -27, y: -32}
+        - {x: 14, y: -32}
+        - {x: 19, y: -14}
+        - {x: 20, y: -9}
+        - {x: 16, y: 4}
+    - name: Oscar_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -30, y: 27}
+        - {x: -30, y: 8}
+        - {x: -23, y: -8}
+        - {x: -19, y: -13}
+        - {x: -21, y: -31}
+        - {x: -21, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -30}
+        - {x: 18, y: 28}
+        - {x: -1, y: 32}
+    - name: Oscar_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 640
+        width: 80
+        height: 64
+      alignment: 9
+      pivot: {x: 0.34127107, y: 0.42572403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.698315, y: -2.246338}
+        - {x: 52.698315, y: 3.753662}
+        - {x: 50.698315, y: 7.753662}
+        - {x: 6.6983147, y: 36.753662}
+        - {x: -26.301685, y: 36.753662}
+        - {x: -26.301685, y: -2.246338}
+        - {x: -17.301685, y: -27.246338}
+        - {x: 28.698315, y: -27.246338}
+        - {x: 27.698315, y: -23.246338}
+        - {x: 20.698315, y: -14.246338}
+        - {x: 49.698315, y: -8.246338}
+      - - {x: 40.698315, y: 36.753662}
+        - {x: 41.698315, y: 33.753662}
+        - {x: 52.698315, y: 33.753662}
+        - {x: 52.698315, y: 36.753662}
+    - name: Oscar_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 640
+        width: 103
+        height: 63
+      alignment: 9
+      pivot: {x: 0.29693085, y: 0.4554348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.583878, y: 34.307617}
+        - {x: -30.583878, y: 28.307617}
+        - {x: -30.583878, y: -28.692383}
+        - {x: 61.416122, y: -28.692383}
+        - {x: 72.41612, y: -26.692383}
+        - {x: 72.41612, y: 11.307617}
+        - {x: 17.416122, y: 34.307617}
+    - name: Oscar_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 6}
+        - {x: -32, y: -32}
+        - {x: 28, y: -32}
+        - {x: 28, y: 32}
+        - {x: -28, y: 32}
+        - {x: -31, y: 27}
+      - - {x: -32, y: -14}
+        - {x: -29, y: -13}
+        - {x: -29, y: 1}
+        - {x: -31, y: 3}
+        - {x: -32, y: 3}
+      - - {x: -32, y: 11}
+        - {x: -29, y: 12}
+        - {x: -29, y: 20}
+        - {x: -31, y: 22}
+        - {x: -32, y: 22}
+      - - {x: -29, y: 25}
+        - {x: -29, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: 24}
+    - name: Oscar_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: 7}
+        - {x: -26, y: -9}
+        - {x: -22, y: -14}
+        - {x: -24, y: -31}
+        - {x: -24, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 27}
+        - {x: 3, y: 32}
+    - name: Oscar_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -30, y: 31}
+        - {x: -30, y: 1}
+        - {x: -22, y: -32}
+        - {x: 24, y: -32}
+        - {x: 28, y: -29}
+        - {x: 28, y: 19}
+        - {x: 21, y: 32}
+    - name: Oscar_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 30}
+        - {x: -3, y: 32}
+        - {x: -25, y: 32}
+        - {x: -29, y: 25}
+        - {x: -29, y: -1}
+        - {x: -21, y: -32}
+        - {x: 21, y: -32}
+        - {x: 29, y: -17}
+        - {x: 29, y: 10}
+        - {x: 28, y: 14}
+    - name: Oscar_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 26}
+        - {x: -32, y: 17}
+        - {x: -32, y: -30}
+        - {x: 26, y: -30}
+        - {x: 32, y: -12}
+        - {x: 32, y: 24}
+        - {x: 31, y: 26}
+      - - {x: 22, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -25}
+        - {x: 22, y: -24}
+        - {x: 20, y: -26}
+    - name: Oscar_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 28}
+        - {x: -32, y: 22}
+        - {x: -32, y: -27}
+        - {x: -24, y: -30}
+        - {x: 16, y: -30}
+        - {x: 32, y: -13}
+        - {x: 32, y: 28}
+      - - {x: 22, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -25}
+        - {x: 22, y: -24}
+        - {x: 20, y: -26}
+    - name: Oscar_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 24}
+        - {x: 28, y: 32}
+        - {x: 26, y: 32}
+        - {x: 13, y: 24}
+        - {x: 13, y: 17}
+        - {x: 14, y: 15}
+        - {x: 16, y: 13}
+        - {x: 12, y: 14}
+        - {x: 12, y: 18}
+        - {x: 14, y: 30}
+        - {x: 14, y: 32}
+        - {x: -20, y: 32}
+        - {x: -32, y: 27}
+        - {x: -32, y: -27}
+        - {x: -6, y: -30}
+        - {x: 8, y: -30}
+        - {x: 19, y: -23}
+        - {x: 30, y: -10}
+        - {x: 32, y: -7}
+      - - {x: 22, y: -29}
+        - {x: 25, y: -28}
+        - {x: 25, y: -25}
+        - {x: 22, y: -24}
+        - {x: 20, y: -26}
+    - name: Oscar_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -18, y: 16}
+        - {x: -18, y: -32}
+        - {x: 23, y: -32}
+        - {x: 30, y: -2}
+        - {x: 30, y: 28}
+        - {x: 28, y: 32}
+    - name: Oscar_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -19, y: -32}
+        - {x: 26, y: -32}
+        - {x: 29, y: -21}
+        - {x: 29, y: 32}
+    - name: Oscar_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -19, y: 27}
+        - {x: -19, y: 25}
+        - {x: -17, y: 23}
+        - {x: -19, y: 21}
+        - {x: -19, y: 30}
+        - {x: -20, y: 32}
+        - {x: -25, y: 32}
+        - {x: -25, y: 7}
+        - {x: -20, y: 6}
+        - {x: -18, y: 8}
+        - {x: -20, y: -9}
+        - {x: -18, y: -17}
+        - {x: -14, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: 3}
+        - {x: 32, y: 31}
+        - {x: 31, y: 32}
+    - name: Oscar_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -18, y: 16}
+        - {x: -18, y: -32}
+        - {x: 23, y: -32}
+        - {x: 30, y: -2}
+        - {x: 30, y: 28}
+        - {x: 28, y: 32}
+    - name: Oscar_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 384
+        width: 78
+        height: 64
+      alignment: 9
+      pivot: {x: 0.647191, y: 0.41030598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.480896, y: 37.740417}
+        - {x: -22.480896, y: 33.740417}
+        - {x: -50.480896, y: 17.740417}
+        - {x: -50.480896, y: -22.259583}
+        - {x: -46.480896, y: -26.259583}
+        - {x: 15.519104, y: -26.259583}
+        - {x: 23.519104, y: -3.2595825}
+        - {x: 27.519104, y: 19.740417}
+        - {x: 27.519104, y: 37.740417}
+    - name: Oscar_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 384
+        width: 102
+        height: 64
+      alignment: 9
+      pivot: {x: 0.709747, y: 0.42824507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.394196, y: 36.592316}
+        - {x: -69.394196, y: 7.5923157}
+        - {x: -72.394196, y: 4.5923157}
+        - {x: -72.394196, y: -4.4076843}
+        - {x: -24.394196, y: -27.407684}
+        - {x: 20.605804, y: -27.407684}
+        - {x: 29.605804, y: 1.5923157}
+        - {x: 29.605804, y: 36.592316}
+    - name: Oscar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -19, y: 25}
+        - {x: -28, y: -8}
+        - {x: -28, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 22}
+        - {x: 25, y: 32}
+      - - {x: 29, y: -12}
+        - {x: 31, y: -14}
+        - {x: 32, y: -14}
+        - {x: 32, y: 3}
+        - {x: 29, y: 2}
+      - - {x: 29, y: 13}
+        - {x: 31, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 22}
+        - {x: 29, y: 21}
+      - - {x: 29, y: 32}
+        - {x: 29, y: 26}
+        - {x: 31, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+    - name: Oscar_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -14, y: 26}
+        - {x: -15, y: 22}
+        - {x: -15, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: -3}
+        - {x: 32, y: 32}
+    - name: Oscar_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -29, y: 18}
+        - {x: -29, y: -11}
+        - {x: -17, y: -32}
+        - {x: 22, y: -32}
+        - {x: 29, y: -5}
+        - {x: 29, y: 26}
+        - {x: 26, y: 32}
+    - name: Oscar_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -28, y: 15}
+        - {x: -28, y: -16}
+        - {x: -20, y: -32}
+        - {x: 23, y: -32}
+        - {x: 30, y: -2}
+        - {x: 30, y: 28}
+        - {x: 28, y: 32}
+    - name: Oscar_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 30}
+        - {x: -32, y: 27}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 30}
+    - name: Oscar_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 28}
+        - {x: -32, y: -32}
+        - {x: 25, y: -32}
+        - {x: 32, y: -1}
+        - {x: 32, y: 26}
+        - {x: 27, y: 28}
+    - name: Oscar_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 28}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 27}
+        - {x: 30, y: 28}
+    - name: Oscar_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 30}
+        - {x: -3, y: 27}
+        - {x: -31, y: 28}
+        - {x: -32, y: 26}
+        - {x: -32, y: 14}
+        - {x: -24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 27}
+        - {x: 28, y: 30}
+    - name: Oscar_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -3}
+        - {x: -23, y: -32}
+        - {x: 17, y: -32}
+        - {x: 23, y: -17}
+        - {x: 23, y: 8}
+        - {x: 13, y: 32}
+      - - {x: 28, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -30}
+        - {x: 30, y: -29}
+      - - {x: 21, y: 31}
+        - {x: 17, y: 23}
+        - {x: 17, y: 14}
+        - {x: 22, y: 7}
+        - {x: 25, y: 7}
+        - {x: 26, y: 8}
+        - {x: 26, y: 31}
+        - {x: 24, y: 32}
+      - - {x: 16, y: 25}
+        - {x: 18, y: 23}
+        - {x: 21, y: 24}
+        - {x: 21, y: 27}
+        - {x: 19, y: 29}
+        - {x: 16, y: 28}
+      - - {x: 11, y: 32}
+        - {x: 10, y: 31}
+        - {x: 11, y: 28}
+        - {x: 14, y: 28}
+        - {x: 16, y: 30}
+        - {x: 15, y: 32}
+    - name: Oscar_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 32}
+        - {x: 18, y: 29}
+        - {x: 14, y: 25}
+        - {x: 14, y: 21}
+        - {x: 15, y: 18}
+        - {x: 14, y: 20}
+        - {x: 14, y: 23}
+        - {x: 12, y: 31}
+        - {x: 5, y: 32}
+        - {x: -30, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -3}
+        - {x: -23, y: -32}
+        - {x: 16, y: -32}
+        - {x: 32, y: 2}
+        - {x: 32, y: 27}
+        - {x: 26, y: 32}
+      - - {x: 11, y: 32}
+        - {x: 10, y: 31}
+        - {x: 11, y: 28}
+        - {x: 14, y: 28}
+        - {x: 16, y: 30}
+        - {x: 15, y: 32}
+    - name: Oscar_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -15, y: 29}
+        - {x: -16, y: 24}
+        - {x: -24, y: -2}
+        - {x: -24, y: -7}
+        - {x: -22, y: -14}
+        - {x: -21, y: -16}
+        - {x: -18, y: -17}
+        - {x: -17, y: -32}
+        - {x: 24, y: -32}
+        - {x: 31, y: -17}
+        - {x: 31, y: 32}
+      - - {x: -27, y: 32}
+        - {x: -27, y: 9}
+        - {x: -26, y: 7}
+        - {x: -24, y: 7}
+        - {x: -21, y: 8}
+        - {x: -18, y: 18}
+        - {x: -18, y: 23}
+        - {x: -22, y: 32}
+      - - {x: -22, y: 25}
+        - {x: -20, y: 23}
+        - {x: -17, y: 24}
+        - {x: -17, y: 27}
+        - {x: -19, y: 29}
+        - {x: -22, y: 28}
+      - - {x: -16, y: 32}
+        - {x: -17, y: 31}
+        - {x: -16, y: 28}
+        - {x: -13, y: 28}
+        - {x: -11, y: 30}
+        - {x: -12, y: 32}
+    - name: Oscar_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 32}
+        - {x: 3, y: 32}
+        - {x: -12, y: 30}
+        - {x: -13, y: 27}
+        - {x: -14, y: 23}
+        - {x: -14, y: 21}
+        - {x: -14, y: 25}
+        - {x: -22, y: 32}
+        - {x: -29, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: 3}
+        - {x: -21, y: -32}
+        - {x: 23, y: -32}
+        - {x: 31, y: 10}
+        - {x: 31, y: 25}
+        - {x: 30, y: 29}
+      - - {x: -16, y: 32}
+        - {x: -17, y: 31}
+        - {x: -16, y: 28}
+        - {x: -13, y: 28}
+        - {x: -11, y: 30}
+        - {x: -12, y: 32}
+    - name: Oscar_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -32}
+        - {x: 27, y: -10}
+        - {x: 26, y: -1}
+        - {x: 16, y: 18}
+        - {x: 6, y: 25}
+        - {x: -5, y: 28}
+        - {x: -24, y: 28}
+        - {x: -29, y: 19}
+        - {x: -29, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -31}
+        - {x: 0, y: -28}
+        - {x: 7, y: -32}
+      - - {x: -32, y: 32}
+        - {x: -32, y: 29}
+        - {x: -17, y: 29}
+        - {x: -15, y: 31}
+        - {x: -15, y: 32}
+    - name: Oscar_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -32}
+        - {x: 27, y: 21}
+        - {x: 0, y: 26}
+        - {x: -23, y: 26}
+        - {x: -29, y: 15}
+        - {x: -29, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -31}
+        - {x: 0, y: -28}
+        - {x: 7, y: -32}
+      - - {x: -32, y: 32}
+        - {x: -32, y: 29}
+        - {x: -17, y: 29}
+        - {x: -15, y: 31}
+        - {x: -15, y: 32}
+    - name: Oscar_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 26}
+        - {x: -8, y: 25}
+        - {x: -27, y: 20}
+        - {x: -27, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 19}
+        - {x: 25, y: 26}
+      - - {x: 15, y: 32}
+        - {x: 16, y: 29}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: Oscar_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 28}
+        - {x: -27, y: 2}
+        - {x: -27, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: 28}
+      - - {x: 15, y: 32}
+        - {x: 16, y: 29}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

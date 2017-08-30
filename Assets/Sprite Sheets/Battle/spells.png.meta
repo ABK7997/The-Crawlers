@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: e285bb11aa74a2b44a006c93ac50fbd9
+timeCreated: 1458081675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spells_0
+    21300002: spells_1
+    21300004: spells_2
+    21300006: spells_3
+    21300008: spells_4
+    21300010: spells_5
+    21300012: spells_6
+    21300014: spells_7
+    21300016: spells_8
+    21300018: spells_9
+    21300020: spells_10
+    21300022: spells_11
+    21300024: spells_12
+    21300026: spells_13
+    21300028: spells_14
+    21300030: spells_15
+    21300032: spells_16
+    21300034: spells_17
+    21300036: spells_18
+    21300038: spells_19
+    21300040: spells_20
+    21300042: spells_21
+    21300044: spells_22
+    21300046: spells_23
+    21300048: spells_24
+    21300050: spells_25
+    21300052: spells_26
+    21300054: spells_27
+    21300056: spells_28
+    21300058: spells_29
+    21300060: spells_30
+    21300062: spells_31
+    21300064: spells_32
+    21300066: spells_33
+    21300068: spells_34
+    21300070: spells_35
+    21300072: spells_36
+    21300074: spells_37
+    21300076: spells_38
+    21300078: spells_39
+    21300080: spells_40
+    21300082: spells_41
+    21300084: spells_42
+    21300086: spells_43
+    21300088: spells_44
+    21300090: spells_45
+    21300092: spells_46
+    21300094: spells_47
+    21300096: spells_48
+    21300098: spells_49
+    21300100: spells_50
+    21300102: spells_51
+    21300104: spells_52
+    21300106: spells_53
+    21300108: spells_54
+    21300110: spells_55
+    21300112: spells_56
+    21300114: spells_57
+    21300116: spells_58
+    21300118: spells_59
+    21300120: spells_60
+    21300122: spells_61
+    21300124: spells_62
+    21300126: spells_63
+    21300128: spells_64
+    21300130: spells_65
+    21300132: spells_66
+    21300134: spells_67
+    21300136: spells_68
+    21300138: spells_69
+    21300140: spells_70
+    21300142: spells_71
+    21300144: spells_72
+    21300146: spells_73
+    21300148: spells_74
+    21300150: spells_75
+    21300152: spells_76
+    21300154: spells_77
+    21300156: spells_78
+    21300158: spells_79
+    21300160: spells_80
+    21300162: spells_81
+    21300164: spells_82
+    21300166: spells_83
+    21300168: spells_84
+    21300170: spells_85
+    21300172: spells_86
+    21300174: spells_87
+    21300176: spells_88
+    21300178: spells_89
+    21300180: spells_90
+    21300182: spells_91
+    21300184: spells_92
+    21300186: spells_93
+    21300188: spells_94
+    21300190: spells_95
+    21300192: spells_96
+    21300194: spells_97
+    21300196: spells_98
+    21300198: spells_99
+    21300200: spells_100
+    21300202: spells_101
+    21300204: spells_102
+    21300206: spells_103
+    21300208: spells_104
+    21300210: spells_105
+    21300212: spells_106
+    21300214: spells_107
+    21300216: spells_108
+    21300218: spells_109
+    21300220: spells_110
+    21300222: spells_111
+    21300224: spells_112
+    21300226: spells_113
+    21300228: spells_114
+    21300230: spells_115
+    21300232: spells_116
+    21300234: spells_117
+    21300236: spells_118
+    21300238: spells_119
+    21300240: spells_120
+    21300242: spells_121
+    21300244: spells_122
+    21300246: spells_123
+    21300248: spells_124
+    21300250: spells_125
+    21300252: spells_126
+    21300254: spells_127
+    21300256: spells_128
+    21300258: spells_129
+    21300260: spells_130
+    21300262: spells_131
+    21300264: spells_132
+    21300266: spells_133
+    21300268: spells_134
+    21300270: spells_135
+    21300272: spells_136
+    21300274: spells_137
+    21300276: spells_138
+    21300278: spells_139
+    21300280: spells_140
+    21300282: spells_141
+    21300284: spells_142
+    21300286: spells_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spells_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -11, y: 21}
+        - {x: -20, y: 21}
+        - {x: -20, y: 1}
+        - {x: -4, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -14}
+        - {x: 17, y: 0}
+        - {x: 12, y: 6}
+    - name: spells_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -26, y: 13}
+        - {x: -19, y: -16}
+        - {x: -1, y: -21}
+        - {x: 19, y: -21}
+        - {x: 21, y: -18}
+        - {x: 21, y: 10}
+        - {x: -16, y: 28}
+    - name: spells_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 29}
+        - {x: -9, y: 26}
+        - {x: -10, y: 23}
+        - {x: -10, y: 18}
+        - {x: -10, y: 20}
+        - {x: -18, y: 28}
+        - {x: -20, y: 29}
+        - {x: -24, y: 29}
+        - {x: -28, y: 22}
+        - {x: -28, y: 11}
+        - {x: -18, y: -24}
+        - {x: 0, y: -29}
+        - {x: 25, y: -29}
+        - {x: 25, y: -1}
+        - {x: 8, y: 29}
+      - - {x: -29, y: 24}
+        - {x: -29, y: 27}
+        - {x: -32, y: 28}
+        - {x: -32, y: 23}
+    - name: spells_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -26, y: 21}
+        - {x: -26, y: 1}
+        - {x: -16, y: -23}
+        - {x: -5, y: -25}
+        - {x: 19, y: -25}
+        - {x: 19, y: 5}
+        - {x: 2, y: 24}
+      - - {x: -29, y: 24}
+        - {x: -29, y: 27}
+        - {x: -32, y: 28}
+        - {x: -32, y: 23}
+    - name: spells_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -9, y: 21}
+        - {x: -17, y: 17}
+        - {x: -18, y: 15}
+        - {x: -18, y: 10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -7}
+        - {x: 10, y: -2}
+        - {x: 4, y: 6}
+    - name: spells_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 32}
+        - {x: -29, y: -14}
+        - {x: 7, y: -29}
+        - {x: 29, y: -29}
+        - {x: 29, y: -7}
+        - {x: -1, y: 32}
+    - name: spells_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 8}
+        - {x: 8, y: 12}
+    - name: spells_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -31}
+        - {x: -23, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 23}
+        - {x: 29, y: 32}
+    - name: spells_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: -29, y: -8}
+        - {x: -31, y: -6}
+        - {x: -32, y: -6}
+      - - {x: 6, y: 8}
+        - {x: 3, y: 14}
+        - {x: -9, y: 14}
+        - {x: -15, y: 7}
+        - {x: -15, y: 4}
+        - {x: -10, y: -5}
+        - {x: -7, y: -9}
+        - {x: -6, y: -9}
+        - {x: -3, y: -6}
+        - {x: 4, y: -7}
+        - {x: 6, y: -5}
+      - - {x: 28, y: 32}
+        - {x: 29, y: 29}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: spells_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -2}
+        - {x: -29, y: -1}
+        - {x: -32, y: -7}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: spells_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -2}
+        - {x: -12, y: -15}
+        - {x: 7, y: -15}
+        - {x: 11, y: -13}
+        - {x: 17, y: -6}
+        - {x: 17, y: 14}
+        - {x: -2, y: 18}
+      - - {x: -29, y: 17}
+        - {x: -29, y: 20}
+        - {x: -32, y: 21}
+        - {x: -32, y: 16}
+    - name: spells_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 28}
+        - {x: -30, y: 19}
+        - {x: 4, y: -30}
+        - {x: 24, y: -30}
+        - {x: 29, y: -23}
+        - {x: 29, y: 1}
+        - {x: -22, y: 28}
+      - - {x: -29, y: 17}
+        - {x: -29, y: 20}
+        - {x: -32, y: 21}
+        - {x: -32, y: 16}
+    - name: spells_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -19, y: 7}
+        - {x: -19, y: -7}
+        - {x: -16, y: -12}
+        - {x: 4, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 15}
+        - {x: 8, y: 19}
+        - {x: 2, y: 21}
+    - name: spells_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -24, y: 2}
+        - {x: -24, y: -8}
+        - {x: -17, y: -18}
+        - {x: 14, y: -18}
+        - {x: 17, y: -11}
+        - {x: 17, y: 21}
+        - {x: 12, y: 24}
+    - name: spells_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -19, y: 7}
+        - {x: -19, y: -7}
+        - {x: -15, y: -12}
+        - {x: 13, y: -12}
+        - {x: 13, y: 20}
+        - {x: 5, y: 21}
+    - name: spells_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -24, y: 2}
+        - {x: -24, y: -8}
+        - {x: -17, y: -18}
+        - {x: 14, y: -18}
+        - {x: 17, y: -11}
+        - {x: 17, y: 21}
+        - {x: 12, y: 24}
+    - name: spells_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 32}
+        - {x: -28, y: 32}
+        - {x: -32, y: 30}
+        - {x: -32, y: -32}
+        - {x: 13, y: -32}
+        - {x: 29, y: -22}
+        - {x: 29, y: 20}
+    - name: spells_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: 0, y: 27}
+        - {x: -7, y: 32}
+        - {x: -15, y: 32}
+        - {x: -31, y: 17}
+        - {x: -31, y: -16}
+        - {x: -11, y: -29}
+        - {x: 14, y: -29}
+        - {x: 30, y: -23}
+        - {x: 30, y: 17}
+        - {x: 23, y: 32}
+    - name: spells_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 32}
+        - {x: -7, y: 26}
+        - {x: -26, y: 5}
+        - {x: -26, y: -2}
+        - {x: 0, y: -32}
+        - {x: 9, y: -32}
+        - {x: 25, y: -10}
+        - {x: 25, y: 11}
+        - {x: 10, y: 32}
+    - name: spells_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 21}
+        - {x: -2, y: 21}
+        - {x: -3, y: 19}
+        - {x: -13, y: 5}
+        - {x: -13, y: -1}
+        - {x: -3, y: -17}
+        - {x: 0, y: -20}
+        - {x: 3, y: -19}
+        - {x: 13, y: 1}
+        - {x: 13, y: 6}
+        - {x: 4, y: 20}
+    - name: spells_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 73
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spells_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: spells_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: spells_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: spells_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 3}
+        - {x: -5, y: 1}
+        - {x: -5, y: -10}
+        - {x: 6, y: -25}
+        - {x: 12, y: -25}
+        - {x: 14, y: -24}
+        - {x: 14, y: 1}
+        - {x: 12, y: 3}
+      - - {x: -9, y: -10}
+        - {x: -12, y: -13}
+        - {x: -12, y: -17}
+        - {x: -9, y: -20}
+        - {x: -5, y: -20}
+        - {x: -3, y: -18}
+        - {x: -3, y: -14}
+        - {x: -7, y: -10}
+      - - {x: 14, y: -5}
+        - {x: 14, y: -16}
+        - {x: 21, y: -16}
+        - {x: 23, y: -14}
+        - {x: 23, y: -9}
+        - {x: 22, y: -5}
+      - - {x: -11, y: 7}
+        - {x: -20, y: 7}
+        - {x: -21, y: 5}
+        - {x: -21, y: -6}
+        - {x: -17, y: -7}
+        - {x: -10, y: -7}
+        - {x: -7, y: -2}
+        - {x: -7, y: 5}
+      - - {x: 13, y: 10}
+        - {x: 11, y: 8}
+        - {x: 11, y: 3}
+        - {x: 13, y: 1}
+        - {x: 17, y: 1}
+        - {x: 19, y: 3}
+        - {x: 19, y: 6}
+        - {x: 15, y: 10}
+      - - {x: -12, y: 20}
+        - {x: -12, y: 11}
+        - {x: -8, y: 4}
+        - {x: 7, y: 4}
+        - {x: 8, y: 5}
+        - {x: 8, y: 15}
+        - {x: 6, y: 20}
+      - - {x: -19, y: 27}
+        - {x: -21, y: 26}
+        - {x: -23, y: 18}
+        - {x: -23, y: 7}
+        - {x: -14, y: 7}
+        - {x: -12, y: 12}
+        - {x: -12, y: 24}
+        - {x: -13, y: 27}
+    - name: spells_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 13}
+        - {x: 9, y: 8}
+        - {x: 9, y: 4}
+        - {x: 9, y: 16}
+        - {x: -12, y: 30}
+        - {x: -25, y: 30}
+        - {x: -25, y: -28}
+        - {x: 22, y: -28}
+        - {x: 24, y: -21}
+        - {x: 24, y: 4}
+        - {x: 21, y: 9}
+    - name: spells_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -24, y: 16}
+        - {x: -24, y: -2}
+        - {x: -16, y: -19}
+        - {x: 17, y: -19}
+        - {x: 22, y: -1}
+        - {x: 22, y: 8}
+        - {x: 20, y: 13}
+    - name: spells_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: 4, y: 28}
+        - {x: 1, y: 31}
+        - {x: -22, y: 31}
+        - {x: -32, y: 26}
+        - {x: -32, y: -7}
+        - {x: -25, y: -27}
+        - {x: 19, y: -27}
+        - {x: 21, y: -26}
+        - {x: 28, y: 4}
+        - {x: 28, y: 17}
+        - {x: 27, y: 18}
+    - name: spells_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 0}
+        - {x: 9, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: -8}
+        - {x: 14, y: 5}
+        - {x: -12, y: 24}
+        - {x: -19, y: 24}
+        - {x: -19, y: 7}
+    - name: spells_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -26, y: 31}
+        - {x: -26, y: -4}
+        - {x: 0, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: -10}
+        - {x: 6, y: 18}
+    - name: spells_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: -29, y: -30}
+        - {x: -31, y: -28}
+        - {x: -32, y: -28}
+      - - {x: 1, y: -18}
+        - {x: 4, y: -17}
+        - {x: 4, y: -14}
+        - {x: 1, y: -13}
+        - {x: -1, y: -15}
+      - - {x: 6, y: 14}
+        - {x: -3, y: 17}
+        - {x: -14, y: 17}
+        - {x: -20, y: 11}
+        - {x: -20, y: -13}
+        - {x: 12, y: -13}
+        - {x: 19, y: -8}
+        - {x: 19, y: 1}
+        - {x: 15, y: 14}
+      - - {x: -22, y: 1}
+        - {x: -19, y: 2}
+        - {x: -19, y: 5}
+        - {x: -22, y: 6}
+        - {x: -24, y: 4}
+    - name: spells_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: -29, y: -30}
+        - {x: -31, y: -28}
+        - {x: -32, y: -28}
+      - - {x: 32, y: 3}
+        - {x: 18, y: 19}
+        - {x: -16, y: 30}
+        - {x: -23, y: 30}
+        - {x: -23, y: 29}
+        - {x: -32, y: 20}
+        - {x: -32, y: -27}
+        - {x: 5, y: -31}
+        - {x: 13, y: -31}
+        - {x: 16, y: -28}
+        - {x: 16, y: -23}
+        - {x: 32, y: -10}
+      - - {x: 19, y: 29}
+        - {x: 15, y: 29}
+        - {x: 13, y: 26}
+        - {x: 13, y: 22}
+        - {x: 16, y: 19}
+        - {x: 20, y: 19}
+        - {x: 23, y: 22}
+        - {x: 23, y: 27}
+    - name: spells_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -10, y: 15}
+        - {x: -10, y: -5}
+        - {x: -6, y: -11}
+        - {x: -2, y: -11}
+        - {x: 2, y: -9}
+        - {x: 5, y: -4}
+        - {x: 5, y: 11}
+        - {x: 2, y: 20}
+    - name: spells_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -9, y: 26}
+        - {x: -13, y: 10}
+        - {x: -13, y: -18}
+        - {x: -8, y: -28}
+        - {x: 9, y: -28}
+        - {x: 9, y: 32}
+    - name: spells_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    - name: spells_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -29, y: -32}
+        - {x: 32, y: 29}
+        - {x: 32, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 39c371f3beb66534e83eb269670d5288
+timeCreated: 1458095884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tiles_level3_oldtown_0
+    21300002: tiles_level3_oldtown_1
+    21300004: tiles_level3_oldtown_2
+    21300006: tiles_level3_oldtown_3
+    21300008: tiles_level3_oldtown_4
+    21300010: tiles_level3_oldtown_5
+    21300012: tiles_level3_oldtown_6
+    21300014: tiles_level3_oldtown_7
+    21300016: tiles_level3_oldtown_8
+    21300018: tiles_level3_oldtown_9
+    21300020: tiles_level3_oldtown_10
+    21300022: tiles_level3_oldtown_11
+    21300024: tiles_level3_oldtown_12
+    21300026: tiles_level3_oldtown_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tiles_level3_oldtown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -29, y: 7}
+        - {x: -32, y: -2}
+        - {x: -32, y: -30}
+        - {x: 27, y: -30}
+        - {x: 30, y: -18}
+        - {x: 30, y: 13}
+        - {x: 27, y: 14}
+    - name: tiles_level3_oldtown_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 4}
+        - {x: -21, y: 4}
+        - {x: -32, y: 2}
+        - {x: -32, y: -27}
+        - {x: -28, y: -30}
+        - {x: 22, y: -30}
+        - {x: 26, y: -17}
+        - {x: 26, y: 1}
+    - name: tiles_level3_oldtown_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: tiles_level3_oldtown_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 26}
+        - {x: -32, y: 24}
+        - {x: -32, y: -12}
+        - {x: -24, y: -31}
+        - {x: 23, y: -31}
+        - {x: 32, y: 1}
+        - {x: 32, y: 24}
+        - {x: 26, y: 26}
+      - - {x: -25, y: -30}
+        - {x: -22, y: -29}
+        - {x: -22, y: -26}
+        - {x: -25, y: -25}
+        - {x: -27, y: -27}
+      - - {x: 21, y: -19}
+        - {x: 18, y: -19}
+        - {x: 16, y: -22}
+        - {x: 16, y: -26}
+        - {x: 18, y: -29}
+        - {x: 24, y: -29}
+        - {x: 27, y: -24}
+        - {x: 27, y: -22}
+      - - {x: -22, y: -26}
+        - {x: -19, y: -25}
+        - {x: -19, y: -22}
+        - {x: -22, y: -21}
+        - {x: -24, y: -23}
+      - - {x: -15, y: -24}
+        - {x: -12, y: -23}
+        - {x: -12, y: -20}
+        - {x: -15, y: -19}
+        - {x: -17, y: -21}
+      - - {x: 14, y: -12}
+        - {x: 13, y: -14}
+        - {x: 13, y: -17}
+        - {x: 16, y: -19}
+        - {x: 20, y: -19}
+        - {x: 22, y: -18}
+        - {x: 22, y: -14}
+        - {x: 19, y: -12}
+      - - {x: -21, y: -13}
+        - {x: -20, y: -16}
+        - {x: -18, y: -16}
+        - {x: -13, y: -12}
+        - {x: -13, y: -10}
+        - {x: -16, y: -9}
+      - - {x: -25, y: -15}
+        - {x: -22, y: -14}
+        - {x: -22, y: -11}
+        - {x: -25, y: -10}
+        - {x: -27, y: -12}
+      - - {x: 24, y: -11}
+        - {x: 27, y: -10}
+        - {x: 27, y: -7}
+        - {x: 24, y: -6}
+        - {x: 22, y: -8}
+      - - {x: 17, y: -8}
+        - {x: 20, y: -7}
+        - {x: 20, y: -4}
+        - {x: 17, y: -3}
+        - {x: 15, y: -5}
+      - - {x: -13, y: -6}
+        - {x: -10, y: -5}
+        - {x: -10, y: -2}
+        - {x: -13, y: -1}
+        - {x: -15, y: -3}
+      - - {x: -23, y: -5}
+        - {x: -20, y: -4}
+        - {x: -20, y: -1}
+        - {x: -23, y: 0}
+        - {x: -25, y: -2}
+      - - {x: 23, y: -3}
+        - {x: 26, y: -2}
+        - {x: 26, y: 1}
+        - {x: 23, y: 2}
+        - {x: 21, y: 0}
+      - - {x: -23, y: 19}
+        - {x: -20, y: 20}
+        - {x: -20, y: 23}
+        - {x: -23, y: 24}
+        - {x: -25, y: 22}
+      - - {x: 15, y: 31}
+        - {x: 11, y: 31}
+        - {x: 11, y: 27}
+        - {x: 14, y: 20}
+        - {x: 26, y: 20}
+        - {x: 26, y: 25}
+        - {x: 20, y: 29}
+      - - {x: -17, y: 23}
+        - {x: -15, y: 21}
+        - {x: -12, y: 22}
+        - {x: -12, y: 26}
+        - {x: -14, y: 28}
+        - {x: -17, y: 27}
+      - - {x: -27, y: 24}
+        - {x: -24, y: 25}
+        - {x: -24, y: 28}
+        - {x: -27, y: 29}
+        - {x: -29, y: 27}
+      - - {x: -20, y: 25}
+        - {x: -17, y: 26}
+        - {x: -17, y: 29}
+        - {x: -20, y: 30}
+        - {x: -22, y: 28}
+      - - {x: -9, y: 25}
+        - {x: -6, y: 26}
+        - {x: -6, y: 29}
+        - {x: -9, y: 30}
+        - {x: -11, y: 28}
+      - - {x: 4, y: 29}
+        - {x: 5, y: 26}
+        - {x: 8, y: 26}
+        - {x: 10, y: 28}
+        - {x: 9, y: 31}
+        - {x: 6, y: 31}
+      - - {x: 24, y: 26}
+        - {x: 27, y: 27}
+        - {x: 27, y: 30}
+        - {x: 24, y: 31}
+        - {x: 22, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

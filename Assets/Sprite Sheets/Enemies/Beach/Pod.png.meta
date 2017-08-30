@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 6d6ca2e83da0b534d9b8e1e545bf8030
+timeCreated: 1457928237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pod_0
+    21300002: Pod_1
+    21300004: Pod_2
+    21300006: Pod_3
+    21300008: Pod_4
+    21300010: Pod_6
+    21300012: Pod_8
+    21300014: Pod_10
+    21300016: Pod_12
+    21300018: Pod_13
+    21300020: Pod_14
+    21300022: Pod_15
+    21300024: Pod_16
+    21300026: Pod_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pod_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -24}
+        - {x: 17, y: -16}
+        - {x: 20, y: -21}
+        - {x: 32, y: -23}
+        - {x: 32, y: 2}
+        - {x: 15, y: 15}
+        - {x: 9, y: 16}
+        - {x: -15, y: 16}
+        - {x: -29, y: 8}
+        - {x: -32, y: 4}
+        - {x: -32, y: -25}
+        - {x: -22, y: -26}
+        - {x: -20, y: -23}
+        - {x: -18, y: -26}
+        - {x: -15, y: -27}
+        - {x: 16, y: -27}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    - name: Pod_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 14}
+        - {x: -32, y: 8}
+        - {x: -32, y: -26}
+        - {x: -21, y: -29}
+        - {x: 32, y: -29}
+        - {x: 32, y: -2}
+        - {x: 15, y: 14}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    - name: Pod_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -11, y: 13}
+        - {x: -32, y: -4}
+        - {x: -32, y: -23}
+        - {x: -19, y: -29}
+        - {x: 22, y: -29}
+        - {x: 32, y: -27}
+        - {x: 32, y: 7}
+        - {x: 21, y: 14}
+      - - {x: 8, y: 32}
+        - {x: 9, y: 29}
+        - {x: 13, y: 29}
+        - {x: 15, y: 31}
+        - {x: 15, y: 32}
+    - name: Pod_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -32, y: -1}
+        - {x: -32, y: -26}
+        - {x: -26, y: -27}
+        - {x: 32, y: -27}
+        - {x: 32, y: 16}
+      - - {x: 8, y: 32}
+        - {x: 9, y: 29}
+        - {x: 13, y: 29}
+        - {x: 15, y: 31}
+        - {x: 15, y: 32}
+    - name: Pod_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -18}
+        - {x: 41.5, y: -18}
+        - {x: 41.5, y: 16}
+        - {x: -31.5, y: 16}
+        - {x: -41.5, y: 5}
+        - {x: -41.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 13.5, y: -19}
+        - {x: 14.5, y: -13}
+      - - {x: -22.5, y: 32}
+        - {x: -21.5, y: 29}
+        - {x: -17.5, y: 29}
+        - {x: -15.5, y: 31}
+        - {x: -15.5, y: 32}
+      - - {x: 22.5, y: 32}
+        - {x: 23.5, y: 29}
+        - {x: 31.5, y: 29}
+        - {x: 33.5, y: 31}
+        - {x: 33.5, y: 32}
+    - name: Pod_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 9}
+        - {x: 18, y: 16}
+        - {x: -32, y: 16}
+        - {x: -45, y: 10}
+        - {x: -45, y: -27}
+        - {x: 16, y: -27}
+        - {x: 45, y: -11}
+        - {x: 45, y: 0}
+      - - {x: -26, y: 32}
+        - {x: -25, y: 29}
+        - {x: -21, y: 29}
+        - {x: -19, y: 31}
+        - {x: -19, y: 32}
+      - - {x: 19, y: 32}
+        - {x: 20, y: 29}
+        - {x: 28, y: 29}
+        - {x: 30, y: 31}
+        - {x: 30, y: 32}
+    - name: Pod_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16}
+        - {x: -37.5, y: 10}
+        - {x: -44.5, y: -1}
+        - {x: -44.5, y: -13}
+        - {x: -24.5, y: -27}
+        - {x: 44.5, y: -27}
+        - {x: 44.5, y: 8}
+        - {x: 29.5, y: 16}
+      - - {x: -29.5, y: 32}
+        - {x: -28.5, y: 29}
+        - {x: -20.5, y: 29}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: 32}
+      - - {x: 19.5, y: 32}
+        - {x: 20.5, y: 29}
+        - {x: 24.5, y: 29}
+        - {x: 26.5, y: 31}
+        - {x: 26.5, y: 32}
+    - name: Pod_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 128
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 16}
+        - {x: -36.5, y: 15}
+        - {x: -41.5, y: 7}
+        - {x: -41.5, y: -27}
+        - {x: 41.5, y: -27}
+        - {x: 41.5, y: 11}
+        - {x: 28.5, y: 16}
+      - - {x: -33.5, y: 32}
+        - {x: -32.5, y: 29}
+        - {x: -24.5, y: 29}
+        - {x: -22.5, y: 31}
+        - {x: -22.5, y: 32}
+      - - {x: 15.5, y: 32}
+        - {x: 16.5, y: 29}
+        - {x: 20.5, y: 29}
+        - {x: 22.5, y: 31}
+        - {x: 22.5, y: 32}
+    - name: Pod_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -24}
+        - {x: 17, y: -16}
+        - {x: 20, y: -21}
+        - {x: 31, y: -22}
+        - {x: 32, y: -22}
+        - {x: 32, y: 2}
+        - {x: 24, y: 23}
+        - {x: -4, y: 23}
+        - {x: -32, y: 13}
+        - {x: -32, y: -26}
+        - {x: -22, y: -26}
+        - {x: -20, y: -23}
+        - {x: -18, y: -26}
+        - {x: -15, y: -27}
+        - {x: 16, y: -27}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    - name: Pod_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 14}
+        - {x: -32, y: 8}
+        - {x: -32, y: -26}
+        - {x: -21, y: -29}
+        - {x: 32, y: -29}
+        - {x: 32, y: -2}
+        - {x: 15, y: 14}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    - name: Pod_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -32, y: 0}
+        - {x: -32, y: -24}
+        - {x: -20, y: -29}
+        - {x: 22, y: -29}
+        - {x: 32, y: -27}
+        - {x: 32, y: 6}
+        - {x: 15, y: 19}
+      - - {x: 8, y: 32}
+        - {x: 9, y: 29}
+        - {x: 13, y: 29}
+        - {x: 15, y: 31}
+        - {x: 15, y: 32}
+    - name: Pod_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -32, y: -1}
+        - {x: -32, y: -26}
+        - {x: -26, y: -27}
+        - {x: 32, y: -27}
+        - {x: 32, y: 16}
+      - - {x: 8, y: 32}
+        - {x: 9, y: 29}
+        - {x: 13, y: 29}
+        - {x: 15, y: 31}
+        - {x: 15, y: 32}
+    - name: Pod_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -24}
+        - {x: 17, y: -16}
+        - {x: 20, y: -21}
+        - {x: 32, y: -24}
+        - {x: 32, y: 3}
+        - {x: 18, y: 27}
+        - {x: 10, y: 27}
+        - {x: 6, y: 23}
+        - {x: 6, y: 21}
+        - {x: -13, y: 21}
+        - {x: -32, y: 7}
+        - {x: -32, y: -25}
+        - {x: -22, y: -26}
+        - {x: -20, y: -23}
+        - {x: -18, y: -26}
+        - {x: -15, y: -27}
+        - {x: 16, y: -27}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    - name: Pod_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 14}
+        - {x: -32, y: 8}
+        - {x: -32, y: -26}
+        - {x: -21, y: -29}
+        - {x: 32, y: -29}
+        - {x: 32, y: -2}
+        - {x: 15, y: 14}
+      - - {x: -27, y: 26}
+        - {x: -29, y: 22}
+        - {x: -29, y: 20}
+        - {x: -26, y: 19}
+        - {x: -26, y: 12}
+        - {x: -24, y: 10}
+        - {x: -21, y: 11}
+        - {x: -18, y: 18}
+        - {x: -18, y: 24}
+        - {x: -22, y: 26}
+      - - {x: -15, y: 32}
+        - {x: -14, y: 29}
+        - {x: -10, y: 29}
+        - {x: -8, y: 31}
+        - {x: -8, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
